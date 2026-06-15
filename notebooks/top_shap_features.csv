@@ -1,0 +1,10 @@
+Feature,Mean_SHAP
+purchase_value,0.17802963
+age,0.16704471
+browser_IE,0.06325465
+sex_M,0.054844573
+source_Direct,0.050486583
+source_SEO,0.048467103
+browser_Safari,0.039278246
+browser_FireFox,0.031955574
+browser_Opera,0.013031711
